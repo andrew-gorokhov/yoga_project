@@ -1,0 +1,10 @@
+nodemon
+dotenv
+express 
+sequelize 
+pg 
+pg-hstore 
+body-parser 
+cors
+argon2
+express-jwt
